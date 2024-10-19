@@ -27,7 +27,6 @@ src="https://camo.githubusercontent.com/41dce96615009283b02805ec5234f99bfdae6bbe
 ---
 
 ## 🛠️ Technologies & Tools  
-## 🛠️ Technologies & Tools  
 <p align="left">
   <strong>Programming Languages:</strong><br>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
