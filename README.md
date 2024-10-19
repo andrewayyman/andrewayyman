@@ -21,10 +21,7 @@ src="https://camo.githubusercontent.com/41dce96615009283b02805ec5234f99bfdae6bbe
 <p align="left">
   <a href="https://linkedin.com/in/andrew-ayman-1bb2b9219/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrew Ayman on LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:andrewayman1000@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Email_Icon.svg" alt="Email" height="30" width="40" />
-  </a>
+
 </p>
 
 ---
