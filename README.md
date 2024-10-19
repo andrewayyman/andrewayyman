@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/41dce96615009283b02805ec5234f99bfdae6bbe
 - 🌱 **Learning:** ASP.NET Core to deepen my expertise in web development.  
 - 💬 **Ask me about:** C#, .NET, SQL, LINQ, C/C++, Python, or anything backend-related.  
 - 📄 **Explore my experiences:** [Resume](https://drive.google.com/drive/folders/1kL0y3vRW1bF8Rvtljjqmi298ybW6kApJ)  
-- 📫 **Reach me at:**  [andrewayman1000@gmail.com](mailto:andrewayman1000@gmail.com), [LinkedIn](https://linkedin.com/in/andrew-ayman-1bb2b9219/), WhatsApp: +201206741192  
+- 📫 **Reach me at:**  [Email](mailto:andrewayman1000@gmail.com), [LinkedIn](https://linkedin.com/in/andrew-ayman-1bb2b9219/), WhatsApp: +201206741192  
 - ⚡ **Fun Fact:** I enjoy gaming and playing football in my free time.  
 
 ---
