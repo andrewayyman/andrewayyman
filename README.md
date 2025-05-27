@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71616&width=435&lines=A+Passionate+Back-End+Developer;%F0%9F%9A%80+Always+learning%2C+always+growing...)](https://git.io/typing-svg)
 
-<p align="center">
-  <img alt="Coding" width="400" height="300"
-src="https://camo.githubusercontent.com/41dce96615009283b02805ec5234f99bfdae6bbe8aaaedd74cd43bda0b7efcc1/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966">
-</p>
 
 ## 💻 About Me  
 - 🔭 **Currently working on** enhancing my backend development skills.  
@@ -90,10 +86,3 @@ src="https://camo.githubusercontent.com/41dce96615009283b02805ec5234f99bfdae6bbe
 
 
 ---
-
-## 📊 GitHub Stats  
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewayyman&show_icons=true&locale=en&layout=compact" alt="andrewayyman" /></p>
--->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewayyman&" alt="andrewayyman" /></p>
