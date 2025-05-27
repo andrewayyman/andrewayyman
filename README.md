@@ -7,7 +7,7 @@
 - 🔭 **Currently working on** enhancing my backend development skills.  
 - 🌱 **Learning:** ASP.NET Core to deepen my expertise in web development.  
 - 💬 **Ask me about:** C#, .NET, SQL, LINQ, C/C++, Python, or anything backend-related.  
-- 📄 **Explore my experiences:** [Resume](https://drive.google.com/drive/folders/1kL0y3vRW1bF8Rvtljjqmi298ybW6kApJ)  
+- 📄 **Explore my experiences:** [Resume](https://drive.google.com/drive/folders/190S5_Krp3eeuQ_OkJB1DPZ9Vz83X3w3l?usp=sharing)  
 - 📫 **Reach me at:**  [Email](mailto:andrewayman1000@gmail.com), [LinkedIn](https://linkedin.com/in/andrew-ayman-1bb2b9219/), WhatsApp: +201206741192  
 - ⚡ **Fun Fact:** I enjoy gaming and playing football in my free time.  
 
