@@ -1,24 +1,16 @@
 # Hi 👋, I'm Andrew Ayman  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71616&width=435&lines=A+Passionate+Back-End+Developer;%F0%9F%9A%80+Always+learning%2C+always+growing...)](https://git.io/typing-svg)
-
+<br>
 
 ## 💻 About Me  
-- 🔭 **Currently working on** enhancing my backend development skills.  
-- 🌱 **Learning:** ASP.NET Core to deepen my expertise in web development.  
-- 💬 **Ask me about:** C#, .NET, SQL, LINQ, C/C++, Python, or anything backend-related.  
-- 📄 **Explore my experiences:** [Resume](https://drive.google.com/drive/folders/190S5_Krp3eeuQ_OkJB1DPZ9Vz83X3w3l?usp=sharing)  
-- 📫 **Reach me at:**  [Email](mailto:andrewayman1000@gmail.com), [LinkedIn](https://linkedin.com/in/andrew-ayman-1bb2b9219/), WhatsApp: +201206741192  
-- ⚡ **Fun Fact:** I enjoy gaming and playing football in my free time.  
+Software Engineer with solid experience in backend and full-stack development, with a strong focus on ASP.NET Core. Skilled in building production-grade systems, integrating scalable APIs, and contributing to enterprise-level architectures.
+<br>
+Enhanced communication, leadership, and public speaking skills through experience as a coding instructor. Known for being adaptable, open to learning new technologies, and thriving in dynamic work environments.
+<br>
+Eager to contribute to impactful software solutions while continuously growing and learning within collaborative, high-performing teams.
 
----
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/andrew-ayman-1bb2b9219/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrew Ayman on LinkedIn" height="30" width="40" />
-
-</p>
+- 📄 **My Resume:** [Resume](https://drive.google.com/drive/folders/1VnELGCuFcDLIgHklKITc1x5rlmS_jSSh)  
+- 📫 **Contact Me:**  [Email](mailto:andrewayman1000@gmail.com), [LinkedIn](https://linkedin.com/in/andrew-ayman-1bb2b9219/), WhatsApp: +2 01206741192  
 
 ---
 
@@ -37,9 +29,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
+
 </p>
 
 <p align="left">
