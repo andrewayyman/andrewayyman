@@ -4,11 +4,11 @@
 
 ## 💻 About Me  
 Software Engineer with solid experience in backend and full-stack development, with a strong focus on ASP.NET Core. Skilled in building production-grade systems, integrating scalable APIs, and contributing to enterprise-level architectures.
-<br>
+<br><br>
 Enhanced communication, leadership, and public speaking skills through experience as a coding instructor. Known for being adaptable, open to learning new technologies, and thriving in dynamic work environments.
-<br>
+<br><br>
 Eager to contribute to impactful software solutions while continuously growing and learning within collaborative, high-performing teams.
-
+<br><br>
 - 📄 **My Resume:** [Resume](https://drive.google.com/drive/folders/1VnELGCuFcDLIgHklKITc1x5rlmS_jSSh)  
 - 📫 **Contact Me:**  [Email](mailto:andrewayman1000@gmail.com), [LinkedIn](https://linkedin.com/in/andrew-ayman-1bb2b9219/), WhatsApp: +2 01206741192  
 
